@@ -79,7 +79,7 @@
 			},
 			"routes": [{
 				"name": "Home",
-				"pattern": "",
+				"pattern": "RouteApp",
 				"target": ["Home"]
 			}, {
 				"name": "Detail",
